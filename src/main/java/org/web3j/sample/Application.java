@@ -1,4 +1,4 @@
-package org.web3j.sample;
+ipackage org.web3j.sample;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -40,7 +40,7 @@ import java.math.BigDecimal;
  *     <a href="https://www.rinkeby.io/#faucet">Rinkeby Faucet</a></li>
  * </ol>
  *
- * <p>For further background information, refer to the project README.
+ * <p>For further background information, refer to the project WRITTEN AND README.
  */
 public class Application {
 
