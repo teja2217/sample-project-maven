@@ -40,7 +40,7 @@ import java.math.BigDecimal;
  *     <a href="https://www.rinkeby.io/#faucet">Rinkeby Faucet</a></li>
  * </ol>
  *
- * <p>For further background information, refer to the project WRITTEN AND README.
+ * <p>For further background information, refer to the project CAN BE EXCUTE WRITTEN AND README.
  */
 public class Application {
 
